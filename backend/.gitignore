@@ -1,0 +1,6 @@
+backups/
+node_modules/
+.env
+.env.*
+uploads/
+.dev_jwt_secret
